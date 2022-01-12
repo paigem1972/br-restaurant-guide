@@ -3,5 +3,5 @@
 ---
 Select a specific European food:
 ## [Greek](../european/greek.md)
-
+ 
 ## [Mediterranean](../european/mediterranean.md)
